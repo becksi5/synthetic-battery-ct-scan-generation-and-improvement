@@ -1,0 +1,8 @@
+AnnodeCathodeManipulation.py
+	- Use this script to manipulate the origal image Sideview_A1230025.jpg with labels_orig.txt as label
+
+CutImages.py
+	- Cut the images to four squares with only the region with overhangs visible
+
+CutLabelsToTips.py
+	- Transform the bounding box for the whole overhang to only the tips
