@@ -1,3 +1,0 @@
-Each full scan is cut into four parts.
-The four parts are the top and bottom, left and right regions with annode overhang and cathode visible.
-Square size as better preperation for the YOLO network.
